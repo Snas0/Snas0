@@ -20,7 +20,6 @@
 ## 👨‍💻 Sobre mim
 
 - Desenvolvedor com foco em front-end e linguagens de baixo nível
-- Estilo hacker: dark mode, terminal vibes, interface limpa e objetiva
 - Stack principal: HTML, CSS, JavaScript, C, C++, C#
 - Interesse em automações, sistemas visuais e otimizações
 
