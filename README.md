@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00B4FF&center=true&vCenter=true&width=900&lines=Code%2C+Control%2C+Compile.;Blue+%2B+Black+%3D+Hacker+Aesthetic.;HTML%2FCSS%2C+JavaScript%2C+C%2FC%2B%2B%2FC%23" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00B4FF&center=true&vCenter=true&width=900&lines=Code%2C+Control%2C+Compile.;Dominando+bits+com+precis%C3%A3o+cir%C3%BArgica.;Do+front+ao+baixo+n%C3%ADvel%2C+sem+perder+o+estilo." />
 </div>
 
 <p align="center">
