@@ -73,8 +73,6 @@
   </a>
 </p>
 
-<!-- Rodapé minimalista -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1" />
-  <p><i>Dark code. Clean UI. Blue neon.</i></p>
 </div>
