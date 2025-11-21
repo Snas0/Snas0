@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00b4ff" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00b4ff" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00b4ff" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00b4ff" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00b4ff" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00b4ff" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00b4ff" />
@@ -19,9 +20,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- Desenvolvedor com foco em front-end e linguagens de baixo nível
-- Stack principal: HTML, CSS, JavaScript, C, C++, C#
-- Interesse em automações, sistemas visuais e otimizações
+- Desenvolvedor com foco em front-end, linguagens de baixo nível e scripts Python
+- Stack principal: HTML, CSS, JavaScript, Python, C, C++, C#
+- Interesse em automações, sistemas visuais, otimizações e ferramentas utilitárias
 
 ---
 
