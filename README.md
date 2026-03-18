@@ -1,27 +1,52 @@
-👋 Olá!
-Eu sou Gabriel Wenceslau, um desenvolvedor e entusiasta de tecnologia, focado em criar soluções eficientes e dar vida a ideias.
+<h1 align="center">Hi there 👋, I'm Gabriel Wenceslau</h1>
 
-Desenvolvo e implemento tudo que consigo imaginar, explorando as fronteiras do desenvolvimento de software.
+<p align="center">
+  🤖 AI Student | 💻 Developer | 🚀 Tech Enthusiast
+</p>
 
-Se uma ideia me inspira, as chances são de que vou construí-la e colocá-la em produção.
+---
 
-Minhas principais tecnologias e linguagens de programação incluem: C, C++, C#, Python, e as bases do desenvolvimento web: HTML, CSS e JavaScript (JS).
+## 🚀 About Me
 
-💻 Projetos e Ferramentas
-Tenho uma variedade de projetos pessoais e contribuições, abrangendo desde a programação de sistemas de baixo nível em C/C++ até o desenvolvimento de aplicações web dinâmicas.
+- 🎓 Student of Artificial Intelligence at UniAcademia
+- ⚙️ Focused on building efficient systems and smart solutions
+- 🧠 Strong interest in algorithms, logic and problem solving
+- 💡 I enjoy turning complex ideas into clean and functional code
+- 🖥️ Daily environment: Windows + Visual Studio Code
 
-Linguagens Focais: C, C++, C#, Python, JavaScript.
+> "If you're not failing, you're not growing."
 
-Frontend: HTML5, CSS3.
+---
 
-Mindset: Adoro desafios de otimização e a arquitetura de software limpo.
+## 🛠️ My Tech Stack
 
-💡 Fatos Curiosos
-Adoro a sensação de otimizar código e a magia por trás de um algoritmo eficiente.
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-Sou um grande fã de jogos de estratégia e adoro transformar ideias complexas em código limpo e funcional.
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Hobbies: programar, anime e jogar.
+### ⚙️ Tools & Environment
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 
-Entre em Contato!
-Email: wenceslaugabriel10@gmail.com
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snas&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snas&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contact
+
+📧 Email: **wenceslaugabriel10@gmail.com**
